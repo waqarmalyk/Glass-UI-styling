@@ -1,0 +1,11 @@
+.skills {
+  flex: 2;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  margin: 3rem;
+}
+
+.head-line {
+  margin-bottom: 3rem;
+}

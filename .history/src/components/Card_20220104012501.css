@@ -1,0 +1,19 @@
+.skills {
+  flex: 2;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  margin: 3rem;
+}
+
+.head-line {
+  margin-bottom: 3rem;
+}
+.card {
+  display: flex;
+  background: linear-gradient(
+    to left top,
+    rgba(255, 255, 255, 0.9),
+    rgba(255, 255, 255, 0.7)
+  );
+}

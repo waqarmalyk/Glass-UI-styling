@@ -1,0 +1,11 @@
+.skills {
+  flex: 2;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  margin: 5rem;
+}
+
+.status {
+  margin-bottom: 3rem;
+}
